@@ -81,7 +81,7 @@ ZNE can yield worse results as circuit size increases, and with higher noise fac
 ## How to run
 
 - Python version: [3.12]
-- Install: `pip install -r requirements.txt` (or list the packages and versions)
+- Install: `pip install -r requirements.txt` 
 - Run: for hardware run use [job_submisson.ipynb](src/job_submisson.ipynb) and for AerSimulator use [kicked_floquet_ising.ipynb](src/kicked_floquet_ising.ipynb)
 
 ## Credits
