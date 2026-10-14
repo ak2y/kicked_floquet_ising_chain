@@ -1,0 +1,22 @@
+# Qiskit Fall Fest 2026 · IIIT-Delhi
+# Every notebook in this repo was tested with these versions on Oct 7, 2026 (Python 3.13).
+# Install with:  pip install -r requirements.txt
+
+qiskit[visualization]==2.5.2
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.50.0
+qiskit-algorithms==0.4.0
+qiskit-nature==0.8.0
+
+# Track 1 (chemistry) only. pyscf has no Windows build: Windows users, use Colab or WSL for Track 1.
+pyscf==2.14.0 ; sys_platform != "win32"
+
+# Grader for the Qubit Quest modules
+qc-grader==2026.9.29
+
+numpy
+scipy
+matplotlib
+rustworkx
+pylatexenc
+jupyterlab
