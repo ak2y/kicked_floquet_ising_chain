@@ -48,7 +48,7 @@ Imbalance from N=100 Floquet-kicked Ising system with clifford parameters(Jz•T
 
 Maximum 2Q depth = 200
 
-| Floquet Step | Quantity | Your Result (IBM Marakesh) | Reference (Clifford) | Absolute Difference |
+| Floquet Step | Quantity |  data(IBM Marakesh) | Reference (Clifford) | Absolute Difference |
 |---:|---|---:|---:|---:|
 | 5  | Imbalance | -1.139428 | -1.000000 | 0.139428 |
 | 10 | Imbalance | 1.191102  | 1.000000  | 0.191102 |
